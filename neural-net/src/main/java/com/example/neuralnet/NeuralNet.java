@@ -1,5 +1,9 @@
 package com.example.neuralnet;
-
+/*
+author:姬小鹏
+QQ：2032926026
+wechat：jxp18209492302
+*/
 import lombok.extern.slf4j.Slf4j;
 
 import java.io.File;
